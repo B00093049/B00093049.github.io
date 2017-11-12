@@ -1,6 +1,6 @@
 html 
 	{ 
- 	background: url(../img/background.jpg) no-repeat center center fixed; 
+ 	background: url(background.jpg) no-repeat center center fixed; 
   	background-size: cover;
 	}
 body 
@@ -102,7 +102,7 @@ header
 	width: 89px;
 	height: 61px;
 	display: block;
-	background: url(../img/pandgbeer.png) no-repeat center;
+	background: url(pandgbeer.png) no-repeat center;
 	}
 nav
 	{
@@ -114,7 +114,7 @@ nav
 	display: none;
 	width: 40px;
 	height: 40px;
-	background: #ff7f27 url(../img/menu-icon.png) center;
+	background: #ff7f27 url(menu-icon.png) center;
 	}
 a:hover#menu-icon 
 	{
