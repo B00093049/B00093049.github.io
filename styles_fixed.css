@@ -1,6 +1,6 @@
 html 
 	{
-	background: url(../img/background.jpg) no-repeat center center fixed;
+	background: url(background.jpg) no-repeat center center fixed;
 	background-size: cover;
 	}
 body
@@ -86,7 +86,7 @@ header
 	float: left;
 	width: 89px;
 	height: 61px;
-	background: url(../img/pandgbeer.png) no-repeat center;
+	background: url(pandgbeer.png) no-repeat center;
 	display: block;
 	}
 nav
